@@ -10,7 +10,7 @@ const Navbar = () => {
   return ( 
     <div className='container pt-10 bg' >
         <div className='flex justify-between items-centre'>
-            <div className='text-xl font-medium'>S O L A N G I</div>
+            <div className='text-xl font-medium px-6'>S O L A N G I</div>
             <ul className='gab-10 lg:gap-16 hidden md:flex'>
             
              <li className='menuLink'><a href="#hero">Home</a></li>

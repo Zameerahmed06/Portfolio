@@ -7,7 +7,7 @@ const Skills = () => {
             <div data-aos="zoom-in-up">
                 <h2 className='text-4xl md:text-5xl'>Technologies I work with</h2>
                 <p className='text-gray-500 pt-2'>
-                    I'm proficient in using various programming languages, including JavaScript, TypeScript, and Tailwind CSS. I also have experience with backend technologies like Node.js.
+                    I&apos;m proficient in using various programming languages, including JavaScript, TypeScript, and Tailwind CSS. I also have experience with backend technologies like Node.js.
                 </p>
             </div>
             <div>

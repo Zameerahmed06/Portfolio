@@ -19,7 +19,7 @@ const Hero = () => {
         {/* Text Content */}
         <div className="text-[40px] sm:text-[60px] md:text-[80px] lg:text-[100px] italic leading-tight flex justify-center items-center py-8">
           <div className="text-center lg:text-left">
-            <p data-aos="zoom-in-up">I'm</p>
+            <p data-aos="zoom-in-up">I&apos;m</p>
             <p data-aos="zoom-in-up">Zameer</p>
             <p data-aos="zoom-in-up">Solangi</p>
           </div>

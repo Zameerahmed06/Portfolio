@@ -10,7 +10,7 @@ const Contact = () => {
             <div className='space-y-8'>
                 <h2 className='text-5xl' data-aos="zoom-in-up">Contact Us For Detail</h2>
                 <p className='text-gray-600 text-[18px] pt-2' data-aos="zoom-in-up">
-                    Feel free to reach out. I'd be happy to help you.
+                    Feel free to reach out. I&apos;d be happy to help you.
                 </p>
                 <div className='flex gap-3 items-centre' data-aos="zoom-in-up">
                 <RiMailSendLine size={30} />solangisadamali57@gmail.com
